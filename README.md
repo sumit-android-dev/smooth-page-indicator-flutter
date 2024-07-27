@@ -1,13 +1,5 @@
 
-# smooth_page_indicator
-  <p >  
-<a href="https://img.shields.io/badge/License-MIT-green"><img   
-align="center" src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"></a>    
-<a href="https://github.com/Milad-Akarie/smooth_page_indicator/stargazers"><img align="center" src="https://img.shields.io/github/stars/Milad-Akarie/smooth_page_indicator?style=flat&logo=github&colorB=green&label=stars" alt="stars"></a>    
-<a href="https://pub.dev/packages/smooth_page_indicator/versions/1.0.0"><img   
-align="center" src="https://img.shields.io/pub/v/smooth_page_indicator.svg" alt="pub version"></a>    
-<a href="https://www.buymeacoffee.com/miladakarie" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" width= "108px"></a>  
-</p>    
+# smooth_page_indicator 
 
 ## Introduction
 Page indicators are a crucial part of any app that involves multiple pages. They help users to  
