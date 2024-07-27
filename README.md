@@ -1,7 +1,6 @@
 
 # smooth_page_indicator 
 
-## Introduction
 Page indicators are a crucial part of any app that involves multiple pages. They help users to  
 understand the number of pages and their current position. `SmoothPageIndicator` is a Flutter  
 package that provides a set of animated page indicators with a variety of effects.
